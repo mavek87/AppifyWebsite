@@ -2,12 +2,12 @@
 
 Convert your responsive website into an Android App
 
-Inside value/strings.xml you can customize your app, changing the strings reported below.
+Inside value/strings.xml you can customize your app, changing the strings reported below. At the moment the various parameters are set using fake data for google website.
 
 <resources>
     <string name="app_name" translatable="false">AppName</string>
 
-    <string name="URL_WEBSITE" translatable="false">http://www.google.it/</string>
+    <string name="URL_WEBSITE" translatable="false">http://www.google.com/</string>
     <string name="URL_INFO" translatable="false">https://it.wikipedia.org/wiki/Google/</string>
     <string name="BUG_REPORT_MAIL_ADDRESS" translatable="false">support@google.com</string>
     <string name="BUG_REPORT_MAIL_SUBJECT">Bug Report</string>
