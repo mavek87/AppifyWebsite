@@ -2,7 +2,7 @@
 
 Convert your responsive website into an Android App
 
-You can customize your app just modifying the strings inside the value/strings.xml file. At the moment the various parameters uses fake data.
+You can customize your app just modifying the strings inside the value/strings.xml file. At the moment the various parameters use fake data.
 
 <resources>
     <string name="app_name" translatable="false">AppName</string>
